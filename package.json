@@ -1,0 +1,14 @@
+{
+  "name": "chrysalis",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "npm@10.7.0",
+  "engines": {
+    "node": ">=v16.20.2 <=v18.20.4"
+  },
+  "author": "Shashwat Pandey <shashwatp953@gmail.com>",
+  "description": "This project contains frontend and backend part",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
